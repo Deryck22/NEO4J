@@ -90,4 +90,4 @@ Se este projeto te ajudou, não esqueça de deixar uma ⭐ no repositório.
 
 Desenvolvedor Java | Estudante de Ciência de Dados
 
-🌐 GitHub: (https://github.com/NEO4J)
+🌐 GitHub: (https://github.com/Deryck22/NEO4J)
